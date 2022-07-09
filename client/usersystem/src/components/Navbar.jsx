@@ -11,12 +11,8 @@ const Navbar = () => {
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="/show">Show Files</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/Fileupload">Upload file</a>
-        </li>
+       
+        
         <li class="nav-item">
           <a class="nav-link" href="/Signup">Signup</a>
         </li>
